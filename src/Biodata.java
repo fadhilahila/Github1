@@ -17,5 +17,7 @@ public class Biodata {
                 System.out.println ("Berat");
                 System.out.println ("Tinggi");
                 System.out.println ("Cita-cita");
+                System.out.println ("Tinggi");
+                System.out.println ("Cita-cita");
             }
 }
